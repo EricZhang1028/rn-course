@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_bce00dc18cf533551b229583683e910172a04ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_f25c8f6ba0c81bcda58418ec768c5473cadf5991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_54c544be6513d5faa3ee3072f551fc55ce8cd60a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_bb0d9bd4ab7c5d6ea2b3eb61c70d028f2721386f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_f25c8f6ba0c81bcda58418ec768c5473cadf5991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_bce00dc18cf533551b229583683e910172a04ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_54c544be6513d5faa3ee3072f551fc55ce8cd60a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/rncourse-react-native-vector-icons-unspecified_4ef1f2015dfdc74f57044fb3e0d12be6ffd44ff7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/rncourse-react-native-vector-icons-unspecified_4ef1f2015dfdc74f57044fb3e0d12be6ffd44ff7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_6dca48d8a2e77187bbc173e83b925b66bc950d20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_9ce4d2ba8010417057ed074c0e8677c6f66521d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_033c3c9b107f68b52b47a4c83cb1092499bd97fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_5deb742455d4188eb8ea85db2f5a32735f259134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_c9279dfd7feacb9ff72f4d697a75dbef7ca1d5e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_290f1782b8c168577e7efd6863e6ac12ec9d8ff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_d974a8524960c68950adc985849b576088c30526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="231a7c0e8b325da7c38e52360891eb93c7f3faca">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/rncourse-react-native-navigation-unspecified_0e8a67f2ea07344db2308fd7a12e097694581f13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_4365d3c4d9be5b95d112805044f226c6b8e6364b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_14ac2e405b4baed258f8616c37a78db866a2df73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.1_147717e35f4ec99e3bbbdcff958c7d451c4876f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_d974a8524960c68950adc985849b576088c30526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_9c443d68361f8b555a88759352447b4f75a64c65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_14ac2e405b4baed258f8616c37a78db866a2df73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_4365d3c4d9be5b95d112805044f226c6b8e6364b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_c9279dfd7feacb9ff72f4d697a75dbef7ca1d5e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_290f1782b8c168577e7efd6863e6ac12ec9d8ff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_1688853671ddc903e2ccbe1c66ace77115c84b23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_b2a393cd5d54d17bbf3d64ddd8d710494ee1ec10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_2a5fe8126ee2f208d64491518a3fb378540128ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c187faa79f552f4f79c2f257209406b32c81e50f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_54632accfea96a21a9e55809a8b424bee73cfeb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_2568347e9cb089c718159cc5ea85a0d6d5dbab35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_9a71f4af859292c0d3138c5a7769489f8393edc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_5ee78ae3f8bba80698a00177d9db7505e44e63fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_5deb742455d4188eb8ea85db2f5a32735f259134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_5878ed915f3db2c258e889aa938d3e17a84315cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_2568347e9cb089c718159cc5ea85a0d6d5dbab35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c187faa79f552f4f79c2f257209406b32c81e50f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_9a71f4af859292c0d3138c5a7769489f8393edc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_1c1d9198833c6ebad8d8d15d9eb4c8a80fda2287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_7ad415fbeb8eeca4377359ac753438b52c38f230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_3c9ab1126712053d6bb0d0ccc9e84a8a84cd47b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_c8cc2ddeefafbc5c218699ce0f2e1d9c642aeae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_9ce4d2ba8010417057ed074c0e8677c6f66521d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.5_0e81f28c6c57c0d947951db54ea80318c22a0206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_2f36f14a402fecd0b9f545a4c4033d59daa2c155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_0e3bb10403fb719ea600f8c66bf762bdb537b8df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_e9f8eec05297d4d3dd932cddf9ce66fe89009ae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_750d7dc7b79994d71de8d1fcd560e071f83b8e0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_5ee78ae3f8bba80698a00177d9db7505e44e63fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_ae0eb90e49cdc71df7216b8b7d53a6974f29dfd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45e3d5cd6d625452fa74a3c156b8d59e2607e767">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/rncourse-react-native-maps-unspecified_d8347f9655ae569550720e267b14db4c40eb1b09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_47bdbbb3a0dc02115553e1137f8e1db66c7c490c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_1f4713eb47b05765c5c20b6a1fedbc577543c4c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_ae0eb90e49cdc71df7216b8b7d53a6974f29dfd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_f2fd819bfac7cb69a67a3e27381c5658c1b642e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_c8cc2ddeefafbc5c218699ce0f2e1d9c642aeae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_278985ecab7cacec1eb1767dfc0566aab0ae149d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_b2a393cd5d54d17bbf3d64ddd8d710494ee1ec10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/yu-chen/Desktop/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_462463585af860bf82d8d8d1d9a01b2910b94513.jar" />
+    </item>
+
+</items>
